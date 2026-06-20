@@ -1,0 +1,5 @@
+name,period_ms,execution_ms,deadline_ms
+sensor_read,10,1,10
+control_loop,20,4,20
+telemetry,50,8,50
+heartbeat,100,2,100
